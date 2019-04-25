@@ -1,0 +1,23 @@
+{
+  "name": "rosebay-nodejs-pattern",
+  "version": "1.0.0",
+  "description": "Folder structure for Node.js application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "REST"
+  ],
+  "author": "Apar Adhikari",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.9.1"
+  }
+}
